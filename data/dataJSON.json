@@ -1,0 +1,10 @@
+{
+  "images": {
+    "clock": "/images/clock.png"
+  },
+  "sounds": {
+      "countdown": "assets/sounds/countdown.mp3",
+      "bankrupt": "assets/sounds/bankrupt.mp3",
+      "puzzleSolve": "assets/sounds/puzzleSolve.mp3"
+  }
+}
